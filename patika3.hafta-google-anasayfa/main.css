@@ -1,0 +1,28 @@
+.google {
+  padding: 50px 500px;
+}
+input {
+  width: 350px;
+}
+.form {
+  padding: 50px 500px;
+  background-color: #f2f2f2;
+  height: auto;
+}
+button {
+  margin-left: 40px;
+  margin-top: 10px;
+}
+p {
+  text-align: center;
+}
+.row {
+  background-color: rgb(178, 230, 243);
+  height: 120px;
+}
+ul li {
+  list-style-type: none;
+}
+.col-4 {
+  border: 2px solid white;
+}
